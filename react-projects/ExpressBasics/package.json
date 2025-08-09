@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemod": "^3.0.6",
+    "nodemon": "^3.1.10"
+  }
+}

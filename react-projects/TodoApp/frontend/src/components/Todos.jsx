@@ -21,3 +21,6 @@ const Todos = ({ todos }) => {
 };
 
 export default Todos;
+
+
+//[4,5,6,7,0,1,2]
